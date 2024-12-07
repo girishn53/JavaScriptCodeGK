@@ -9,8 +9,10 @@ else
 {
     console.log("Condition is not satisfied")
 
-
 }
+
+
+console.log("---------------------");
 
 //do while loop
 //It gets executed atleast once
@@ -22,7 +24,7 @@ do{
 
     console.log(i)
 }
-while(i>10);
+while(i>10)
 
 
 console.log("---------------------")

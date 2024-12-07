@@ -27,7 +27,7 @@ delete person.gender
 console.log(person)
 
 console.log('******************')
-
+console.log('*******for loop********')
 
 for (let key in person){
 

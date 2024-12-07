@@ -13,9 +13,9 @@ console.log("----------------");
 
     console.log("----------------");
 
-     var date = 30
+     var date = "30"
 
-     var nextdate = 40
+     var nextdate = "40"
 
 
      var diff =  parseInt(nextdate) - parseInt(date)

@@ -1,5 +1,4 @@
 function add (a,b)
-
 {
 console.log(a+b)
 }
@@ -14,6 +13,6 @@ function greetings(){
 
 
 
-var msg = greetings();
+let msg = greetings();
 
 console.log(msg);

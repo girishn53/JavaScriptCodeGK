@@ -22,7 +22,3 @@ show(){
  let b = new B();
 
  b.display();
-
-
-
-

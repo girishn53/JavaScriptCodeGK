@@ -8,9 +8,7 @@ job : "Engineer",
 
 basicSal : "50000",
 
-
-
-
+//bonus is the name of function
 bonus : function (){
 
     return (this.basicSal*10)/100;
